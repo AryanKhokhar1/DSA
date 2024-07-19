@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Patttern22 {
+public class Pattern22 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("N: ");
